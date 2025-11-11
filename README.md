@@ -35,7 +35,7 @@
 ### Paso a Paso  
 1. Clona el repositorio:  
    ```bash
-   git clone https://github.com/LuisaCastano40/BackendPruebaTecnica_BIT-_202407.git
+   git clone https://github.com/dharroyave/Prueba-Testing.git
 
 2. Instala las dependencias necesarias: 
     ```bash
