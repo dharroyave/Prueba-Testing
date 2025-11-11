@@ -59,7 +59,7 @@
 Este proyecto fue desarrollado como material educativo para estudiantes de BIT +. Si tienes preguntas o sugerencias, no dudes en contactarme.  
 
 - **Autor:** Duvan Arroyave Barbosa
-- **GitHub:** [LuisaCastano40](https://github.com/dharroyave)  
+- **GitHub:** [dharroyave](https://github.com/dharroyave)  
 - **LinkedIn:** [Perfil de linkedIn](https://www.linkedin.com/in/duvan-arroyave-desarrollador-web-full-stack/) 
 
 ¡Explora los ejemplos y adapta las soluciones a tus propios proyectos!
