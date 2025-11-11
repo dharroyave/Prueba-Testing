@@ -63,3 +63,13 @@ Este proyecto fue desarrollado como material educativo para estudiantes de BIT +
 - **LinkedIn:** [Perfil de linkedIn](https://www.linkedin.com/in/duvan-arroyave-desarrollador-web-full-stack/) 
 
 ¡Explora los ejemplos y adapta las soluciones a tus propios proyectos!
+
+## Taller
+
+1. Creacion Repositorio
+2. Ejecutar el servidor
+<img href="./imgs/Conexion Servidor.png">
+3. Prueba ejemplo: Pasan todos los casos de prueba
+<img href="./imgs/Validacion Caso de Prueba pass.png">
+4. Prueba ejemplo: No Pasan todos los casos de prueba
+<img href="./imgs/Validacion Caso de Prueba failed.png">
