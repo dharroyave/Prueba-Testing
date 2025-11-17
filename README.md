@@ -68,8 +68,10 @@ Este proyecto fue desarrollado como material educativo para estudiantes de BIT +
 
 1. Creacion Repositorio
 2. Ejecutar el servidor
-<img href="./imgs/Conexion Servidor.png">
+![img1] (imgs/img1.png)
 3. Prueba ejemplo: Pasan todos los casos de prueba
-<img href="./imgs/Validacion Caso de Prueba pass.png">
+![img2] (imgs/img2.png)
 4. Prueba ejemplo: No Pasan todos los casos de prueba
-<img href="./imgs/Validacion Caso de Prueba failed.png">
+![img3] (imgs/img3.png)
+![img4] (imgs/img4.png)
+![img5] (imgs/img5.png)
