@@ -65,13 +65,14 @@ Este proyecto fue desarrollado como material educativo para estudiantes de BIT +
 ¡Explora los ejemplos y adapta las soluciones a tus propios proyectos!
 
 ## Taller
-
-1. Creacion Repositorio
-2. Ejecutar el servidor
-![img1] (imgs/img1.png)
-3. Prueba ejemplo: Pasan todos los casos de prueba
-![img2] (imgs/img2.png)
-4. Prueba ejemplo: No Pasan todos los casos de prueba
-![img3] (imgs/img3.png)
-![img4] (imgs/img4.png)
-![img5] (imgs/img5.png)
+1. Creacion de respositorio
+2. Ejecutar el servidor 
+<img src="/imgs/img1.png">
+3. Prueba ejemplo todos pasan
+<img src="/imgs/img2.png">
+4. Prueba ejemplo 1 falla
+<img src="/imgs/img3.png">
+5. Inicio de Sesion
+<img src="/imgs/img4.png">
+6. 3 controles de inicio de Sesion
+<img src="/imgs/img5.png">
